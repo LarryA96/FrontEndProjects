@@ -22,7 +22,7 @@ function App() {
       <div id="wrapper">
       <div id="quote-box">
         <div class="quote-text" style="opacity: 1;">
-          <i class="fa fa-quote-left"> </i><span id="text"></span><i class="fa fa-quote-left"> </i>
+          <i class="fa fa-quote-left"> </i><span id="text"></span><i class="fa fa-quote-right"> </i>
         </div>
         <div class="quote-author" style="opacity: 1;">- <span id="author"></span></div>
         <div class="buttons">

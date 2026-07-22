@@ -6,8 +6,7 @@
 */
 
 import { useState } from 'react'
-import 'randomizer.js'
-import './App.css'
+import './randomizer.js'
 
 function App() {
   const [count, setCount] = useState(0);

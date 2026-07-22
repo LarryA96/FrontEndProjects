@@ -22,9 +22,9 @@ function App() {
       <div id="wrapper">
       <div id="quote-box">
         <div class="quote-text" style="opacity: 1;">
-          <i class="fa fa-quote-left"> </i><span id="text">A truly rich man is one whose children run into his arms when his hands are empty.</span>
+          <i class="fa fa-quote-left"> </i><span id="text"></span><i class="fa fa-quote-left"> </i>
         </div>
-        <div class="quote-author" style="opacity: 1;">- <span id="author">Unknown</span></div>
+        <div class="quote-author" style="opacity: 1;">- <span id="author"></span></div>
         <div class="buttons">
           <a class="button" id="tweet-quote" title="Tweet this quote!" target="_top" href="https://twitter.com/intent/tweet?hashtags=quotes&amp;related=freecodecamp&amp;text=%22A%20truly%20rich%20man%20is%20one%20whose%20children%20run%20into%20his%20arms%20when%20his%20hands%20are%20empty.%22%20Unknown" style="background-color: rgb(71, 46, 50);">
             <i class="fa fa-twitter"></i>
